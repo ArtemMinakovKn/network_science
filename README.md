@@ -1,5 +1,5 @@
 # From Reddit to Wall Street: The role of committed minorities in financial collective action
-***Authots:*** *Artem Minakov, Linus Krause, Elena Putilova, Diana Sharafeeva*
+***Authors:*** *Artem Minakov, Elena Putilova, Diana Sharafeeva*
 
 ## Project goals 
 The paper replicates the research conducted in the article titled ["From Reddit to Wall Street: The role of committed minorities in financial collective action"](https://arxiv.org/pdf/2107.07361.pdf), authored by Lorenzo Lucchini, Luca Maria Aiello, Laura Alessandretti, Gianmarco De Francisci Morales, Michele Starnini, and Andrea Baronchelli in 2021. 
@@ -24,9 +24,12 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 
 ## Outcome
 Though we didn't get absolutely the same numbers, we got similar trends and we can do similar conclusion except one, where the shortage of data influenced the result. 
+
 Commitment comes before higher prices and stays consistent. This applies to both the article and the analysis.
 In the article, people started showing their identity more when they became more committed, but in the analysis, identity expressions went down over time (likely because of deleted posts). Nevertheless, employing an alternative approach to measure group identity based on the number of post rewards reveals a comparable upward trend in group identity, aligning with the findings presented in the original article. 
+
 On the network dynamics our findings aligned with the original article's observations. We noted an increase in heterogeneity and average degree within the network with a decline in reciprocity. This indicates that  the diversity and average connections in the evolving  network grow, but the mutual connections of users decrease. 
+
 Furthermore, our analysis reinforced the original article's observation that commitment activity remained concentrated within the core while gradually spreading towards the periphery. This network evolution underscored the interplay between central and peripheral participants in collective action dynamics. Lastly, in the concluding stages of collective action, marked by significant price increases, we observed peripheral users actively engaging and displaying commitment, reaffirming the dynamism of participant roles within the studied phenomenon.
 
 
