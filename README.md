@@ -22,6 +22,35 @@ Number of comments: 4 209 560
 All the data from January 1, 2016 until April 6, 2021
 Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article) 
 
+## Quantifying commitment
+### Quantifying commitment: number of posts
+![map](link)
+
+### Composition of commitment events by flair
+![map](link)
+
+### Quantifying commitment: flairs
+![map](link)  
+
+## Group identity
+![map](link)
+
+### Alternative measure of group identity
+![map](link)
+
+## Network dynamycs analysis 
+![map](link)
+
+## Network metrics 
+### Reciprocity
+![map](link)
+
+### Heterogeneity
+![map](link)
+
+### Average degree of the networks
+![map](link)
+
 ## Outcome
 Though we didn't get absolutely the same numbers, we got similar trends and we can do similar conclusion except one, where the shortage of data influenced the result.  
 
