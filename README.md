@@ -12,7 +12,7 @@ The paper replicates the research conducted in the article titled ["From Reddit 
 - Study the dynamics of social interactions between committed individuals and other WSB users.
 
 ## Data
-- The activity on the subreddit r/wallstreetbets retrieved on April 6, 2021 (gained by [Academic Torrents](https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e)  
+- The activity on the subreddit r/wallstreetbets retrieved on April 6, 2021 (gained by [Academic Torrents](https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e))
 - The price of GameStop shares, ticker GME (parsed from Yahoo Finance).
 
 In overall number of posts: 138 766  
@@ -24,7 +24,7 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 
 ## Quantifying commitment
 ### Quantifying commitment: number of posts
-![map](https://github.com/elenaputilova/network_science/blob/main/project/images/number%20of%20posts.png)
+![map](https://github.com/ArtemMinakovKn/DocAna/blob/main/happiness_countries.jpg)
 
 ### Composition of commitment events by flair
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/events%20by%20flair.png)
