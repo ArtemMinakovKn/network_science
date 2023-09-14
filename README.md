@@ -24,32 +24,32 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 
 ## Quantifying commitment
 ### Quantifying commitment: number of posts
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/number%20of%20posts.png)
 
 ### Composition of commitment events by flair
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/events%20by%20flair.png)
 
 ### Quantifying commitment: flairs
-![map](link)  
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/flairs.png)  
 
 ## Group identity
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/group%20identity.png)
 
 ### Alternative measure of group identity
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/group%20identity2.png)
 
 ## Network dynamycs analysis 
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Evolution.png)
 
 ## Network metrics 
 ### Reciprocity
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Reciprocity.png)
 
 ### Heterogeneity
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Heterogeneity.png)
 
 ### Average degree of the networks
-![map](link)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Average%20degree%20of%20the%20networks.png)
 
 ## Outcome
 Though we didn't get absolutely the same numbers, we got similar trends and we can do similar conclusion except one, where the shortage of data influenced the result.  
