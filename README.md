@@ -24,7 +24,7 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 
 ## Quantifying commitment
 ### Quantifying commitment: number of posts
-![map](https://github.com/ArtemMinakovKn/DocAna/blob/main/happiness_countries.jpg)
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/number%20of%20posts.png) 
 
 ### Composition of commitment events by flair
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/events%20by%20flair.png)
@@ -39,6 +39,7 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/group%20identity2.png)
 
 ## Network dynamycs analysis 
+![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Jan%208-12.png)
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Evolution.png)
 
 ## Network metrics 
