@@ -40,6 +40,8 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 
 ## Network dynamycs analysis 
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Jan%208-12.png)
+
+## Network evolution
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Evolution.png)
 
 ## Network metrics 
