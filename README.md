@@ -38,7 +38,7 @@ Analyzed data: from November 27, 2020 up to February 3, 2021 (as in the Article)
 ### Alternative measure of group identity
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/group%20identity2.png)
 
-## Network dynamycs analysis 
+## Network dynamic analysis 
 ![map](https://github.com/elenaputilova/network_science/blob/main/project/images/Jan%208-12.png)
 
 ## Network evolution
